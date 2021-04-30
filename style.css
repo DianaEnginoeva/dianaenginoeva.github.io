@@ -58,14 +58,20 @@ h2 {
 
 .description {
     display: flex;
+    width: 100%;
+}
+
+.picture {
+    width: 250%;
 }
 
 .description img {
-    max-width: 40%;
+    max-width: 100%;
     height: auto;
 }
 
 .description p {
+    flex-basis: 60%;
     margin-left: 20px;
     font-family: 'Lora', serif;
     font-size: 20px;
