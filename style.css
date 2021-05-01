@@ -7,10 +7,12 @@ nav ul {
     display: flex;
     justify-content: space-around;
     background-color: black;
+    padding: 0;
   }
   
   nav li {
     list-style-type: none;
+    margin: 0;
   }
   
   nav a {
