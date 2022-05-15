@@ -11,6 +11,15 @@
   text-transform: uppercase;
   letter-spacing: 2px;
 }
+
+@media only screen and (min-width: 600px) {
+    
+    .makeChoice {
+        width: 200px 300px;
+        font-size: 3em;
+    }
+}
+
 .makeChoice:before, .makeChoice:after {
   content: "";
   position: absolute;
