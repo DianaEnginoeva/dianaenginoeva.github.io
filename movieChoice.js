@@ -27,7 +27,10 @@ let movies = ["Солнцестояние",
     "Орландо",
     "Собачий полдень",
     "Морис",
-    "Атомная блондинка"];
+    "Атомная блондинка"
+    "Бойцовский клуб",
+    "Barry",
+    "Fleabag"];
 
     let prep = Math.floor(Math.random()*movies.length);
     let movieOfTheDay = movies[prep];
