@@ -47,7 +47,7 @@ let movies = [
 		"Чисто английский скандал",
 		"Как же хорошо...",
 		"Barry",
-		"Fleabag",
+		"Fleabag"];
 		/**/
 
     let prep = Math.floor(Math.random()*movies.length);
